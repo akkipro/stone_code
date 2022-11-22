@@ -1,1 +1,1 @@
-web: java -war target/StoneCodeValidation-0.0.1-SNAPSHOT.war
+web: java -jar target/StoneCodeValidation-0.0.1-SNAPSHOT.war
