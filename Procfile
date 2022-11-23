@@ -1,1 +1,1 @@
-web : java -jar target/scv.war
+web: java -jar target/scv.war
